@@ -1,0 +1,20 @@
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\obj\Debug\AraSınav_PD2.csprojAssemblyReference.cache
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\obj\Debug\AraSınav_PD2.Vize.resources
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\obj\Debug\AraSınav_PD2.Properties.Resources.resources
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\obj\Debug\AraSınav_PD2.csproj.GenerateResource.cache
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\obj\Debug\AraSınav_PD2.csproj.CoreCompileInputs.cache
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\bin\Debug\AraSınav_PD2.exe.config
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\bin\Debug\AraSınav_PD2.exe
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\bin\Debug\AraSınav_PD2.pdb
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\obj\Debug\AraSınav_PD2.exe
+E:\Klasörler\Visual Studio 2019 Projects\AraSınav_PD2\obj\Debug\AraSınav_PD2.pdb
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\bin\Debug\AraSınav_PD2.exe.config
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\bin\Debug\AraSınav_PD2.exe
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\bin\Debug\AraSınav_PD2.pdb
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\obj\Debug\AraSınav_PD2.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\obj\Debug\AraSınav_PD2.Vize.resources
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\obj\Debug\AraSınav_PD2.Properties.Resources.resources
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\obj\Debug\AraSınav_PD2.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\obj\Debug\AraSınav_PD2.exe
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\obj\Debug\AraSınav_PD2.pdb
+C:\Users\Beyza\Desktop\Yeni klasör\AraSınav_PD2\obj\Debug\AraSınav_PD2.OnizlemeEkrani.resources
